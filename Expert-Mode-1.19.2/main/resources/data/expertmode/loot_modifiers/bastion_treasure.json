@@ -1,0 +1,19 @@
+{	
+	"conditions": [
+		{
+			"condition": "forge:loot_table_id",
+			"loot_table_id": "minecraft:chests/bastion_treasure"
+		}
+	],
+	"type": "expertmode:bastion_treasure",
+    "entries": [
+    	{
+    		"name": "minecraft:book",
+    		"weight": 30
+    	},
+    	{
+            "name": "empty",
+            "weight": 70
+        }
+    ]
+}

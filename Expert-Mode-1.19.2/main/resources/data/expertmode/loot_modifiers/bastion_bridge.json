@@ -1,0 +1,36 @@
+{
+	"conditions": [
+		{
+			"condition": "forge:loot_table_id",
+			"loot_table_id": "minecraft:chests/bastion_bridge"
+		}
+	],
+	"type": "expertmode:bastion_bridge",
+    "pools": [
+    	{
+	    	"bonus_rolls": 0.0,
+	    	"entries": [
+	    		{
+		    		"type": "minecraft:item",
+		    		"functions": [
+		    			{
+		    				"enchantments": [
+		    					"expertmode:curse_of_avarice",
+		    					"expertmode:curse_of_chorus",
+		    					"expertmode:curse_of_darkness",
+		    					"expertmode:curse_of_detonation"
+		    				],
+		    				"function": "minecraft:enchant_randomly"
+		    			}
+		    		],
+		    		"name": "minecraft:book",
+		    		"weight": 25
+	    		},
+	    		{
+	    			"name": "empty",
+	    			"weight": 75
+	    		}
+	    	]
+		}
+	]
+}

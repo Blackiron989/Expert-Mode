@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"condition": "forge:loot_table_id",
+			"loot_table_id": "minecraft:chests/nether_bridge"
+		}
+	],
+	"type": "expertmode:nether_bridge",
+    "entries": [
+    	{
+    		"name": "minecraft:book",
+    		"weight": 10
+    	},
+    	{
+            "name": "empty",
+            "weight": 90
+        }
+    ]
+}

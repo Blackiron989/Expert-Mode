@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"condition": "forge:loot_table_id",
+			"loot_table_id": "minecraft:chests/bastion_other"
+		}
+	],
+	"type": "expertmode:bastion_other",
+    "entries": [
+    	{
+    		"name": "minecraft:book",
+    		"weight": 25
+    	},
+    	{
+            "name": "empty",
+            "weight": 75
+        }
+    ]
+}

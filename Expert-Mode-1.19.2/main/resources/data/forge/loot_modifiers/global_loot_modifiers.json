@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"entries": [
+		"expertmode:bastion_bridge",
+		"expertmode:bastion_hoglin",		
+		"expertmode:bastion_other",
+		"expertmode:bastion_treasure",
+		"expertmode:nether_bridge",
+		"expertmode:ruined_portal"
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"conditions": [
+		{
+			"condition": "forge:loot_table_id",
+			"loot_table_id": "minecraft:chests/ruined_portal"
+		}
+	],
+	"type": "expertmode:ruined_portal",
+    "entries": [
+    	{
+    		"name": "minecraft:book",
+    		"weight": 5
+    	},
+    	{
+            "name": "empty",
+            "weight": 95
+        }
+    ]
+}

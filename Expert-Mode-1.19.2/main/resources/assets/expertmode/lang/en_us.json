@@ -1,0 +1,35 @@
+{
+
+	"itemGroup.expertmode" : "Expert Mode",
+	
+	"block.expertmode.temp" : "temp",
+	
+	"effect.expertmode.witherresistance" : "Wither Resistance",
+	"effect.expertmode.poisonresistance" : "Poison Resistance",
+	"effect.expertmode.bleedingpotion" : "Bleeding",
+	"effect.expertmode.woundedpotion" : "Wounded",
+	"effect.expertmode.infectionpotion" : "Infection",
+	
+	"enchantment.expertmode.protection" : "Protection",
+	"enchantment.expertmode.blast_protection" : "Blast Protection",
+	"enchantment.expertmode.fire_protection" : "Fire Protection",
+	"enchantment.expertmode.projectile_protection" : "Projectile Protection",
+	"enchantment.expertmode.feather_falling" : "Feather Falling",
+	"enchantment.expertmode.curse_of_avarice" : "Curse of Avarice",
+	"enchantment.expertmode.curse_of_chorus" : "Curse of Chorus",
+	"enchantment.expertmode.curse_of_darkness" : "Curse of Darkness",
+	"enchantment.expertmode.curse_of_detonation" : "Curse of Detonation",
+	
+	"item.expertmode.extinguishpotion" : "Extinguish Potion",
+	"item.expertmode.hungerantidote" : "Hunger Antidote",
+	"item.expertmode.infectionantidote" : "Infection Antidote",
+	"item.expertmode.poisonantidote" : "Poison Antidote",
+	"item.expertmode.weaknessantidote" : "Weakness Antidote",
+	"item.expertmode.witherantidote" : "Wither Antidote",
+	"item.expertmode.witherresistancepotion" : "Wither Resistance Potion",
+	"item.expertmode.poisonresistancepotion" : "Poison Resistance Potion",
+	"item.expertmode.milkbottle" : "Milk Bottle",
+	
+	"death.attack.stonecutter" : "%1$s was cut to pieces by a stonecutter"
+
+}
